@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t2vh6n2db-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t2vh6n2db-java-quarkus
